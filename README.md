@@ -1,7 +1,7 @@
 ![banner](https://imgur.com/aSim4Zz.png)
 
 # About Me:
-Call me detectiveAvery, I'm 19 years old.
+Hi, I'm detectiveAvery!
 I'm pursuing a Computer Science degree and doing the Odin Project on the side.
 
 # Tech Stack:
